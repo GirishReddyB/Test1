@@ -63,7 +63,7 @@
 				<configuration>
 					<deploymentType>standalone</deploymentType>
 					<muleVersion>${mule.version}</muleVersion> 
-					<muleHome>${mule.home}</muleHome> 
+					<muleHome>/Users/biddalag/Documents/WS_T2M/.mule</muleHome> 
 					<applicationName>${artifactId}</applicationName> 
 					<community>true</community> 
 				</configuration>
