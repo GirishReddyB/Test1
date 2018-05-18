@@ -86,7 +86,7 @@
     <version>2.2.1</version>
     <configuration>
         <deploymentType>standalone</deploymentType>
-        <muleHome>/Users/biddalag/Documents/WS_T2M/.mule</muleHome>
+        <muleHome>/Users/biddalag/Documents/Mule/mule-standalone-3.9.0</muleHome>
     </configuration>
     <executions>
         <execution>
