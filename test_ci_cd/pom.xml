@@ -83,7 +83,7 @@
 			<plugin>
     <groupId>org.mule.tools.maven</groupId>
     <artifactId>mule-maven-plugin</artifactId>
-    <version>2.2.1</version>
+    <version>2.0</version>
     <configuration>
         <deploymentType>standalone</deploymentType>
         <muleHome>/Users/biddalag/Documents/Mule/mule-standalone-3.9.0</muleHome>
@@ -217,6 +217,7 @@
             <version>${mule.version}</version>
             <scope>provided</scope>
         </dependency>
+        
     </dependencies>
 
 	<repositories>
